@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Russo One', sans-serif;
+}
+header .box{
+    display: flex;
+    align-items: center;
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header .logos{
+    margin-left: 17px;
+}
+header .menu ul{
+    display: flex;
+    margin-left: 104px;
+    margin-right: 234px;
+}
+header .menu span{
+    color: orange;
+}
+header .menu li{
+    list-style: none;
+    font-size: 35px;
+    padding-right: 20px;
+    color: whitesmoke;
+}
+header .menu li:last-child{
+    padding-right: 0;
+}
+header .masang{
+    display: flex;
+    align-items: center;
+}
+section{
+    background: url("image/photo.png");
+}
+section .sec{
+    text-align: center;
+    padding-top: 418px;
+    padding-bottom: 300px;
+}
+section .sec h1{
+    font-size: 90px;
+    color: whitesmoke;
+}
+section .sec p{
+    color: whitesmoke;
+    font-size: 70px;
+}
+section .sec .line{
+    border-bottom: whitesmoke solid 3px;
+    width: 500px;
+    margin-left: 680px;
+}
+.one{
+    background: url("image/photo1.jpg");
+}
+.one .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.one .ones h2{
+    color: whitesmoke;
+    margin-left: 650px;
+    font-size: 90px;
+}
+.free{
+    background: url("image/photo4.png");
+}
+.free .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.free .ones h2{
+    color: whitesmoke;
+    margin-left: 650px;
+    font-size: 90px;
+}
+.five{
+    background: url("image/photo7.png");
+}
+.five .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.five .ones h2{
+    color: whitesmoke;
+    margin-left: 650px;
+    font-size: 90px;
+}
+.seven{
+    background: url("image/photo9.png");
+}
+.seven .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.seven .ones h2{
+    color: whitesmoke;
+    margin-left: 720px;
+    font-size: 90px;
+}
+.nine{
+    background: url("image/photo12.png");
+}
+.nine .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.nine .ones h2{
+    color: whitesmoke;
+    margin-left: 720px;
+    font-size: 90px;
+}
+.eleven{
+    background: url("image/photo14.png");
+}
+.eleven .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.eleven .ones h2{
+    color: whitesmoke;
+    margin-left: 560px;
+    font-size: 90px;
+}
+.tre{
+    background: url("image/photo17.png");
+}
+.tre .ones{
+    display: flex;
+    align-items: center;
+    padding-top: 160px;
+    padding-bottom: 140px;
+    padding-left: 35px;
+}
+.tre .ones h2{
+    color: whitesmoke;
+    margin-left: 400px;
+    font-size: 90px;
+}
+footer .box{
+    display: flex;
+    align-items: center;
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer .logos{
+
+}
+footer .menu ul{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 50px;
+}
+footer .menu span{
+    color: orange;
+}
+footer .menu li{
+    list-style: none;
+    font-size: 35px;
+    padding-right: 20px;
+    color: whitesmoke;
+}
+footer .menu li:last-child{
+    padding-right: 0;
+}
+footer .masang{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
